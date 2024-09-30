@@ -11,7 +11,7 @@
 
 ### ⚙ Technology Stack
 <p align="center">
-  <img src="https://www.pngegg.com/ar/png-nklzm" />
+  <img src="<i class="fa-brands fa-python"></i> />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
   <!-- أضف المزيد حسب الحاجة -->
