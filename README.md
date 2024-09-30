@@ -1,35 +1,46 @@
-<img align="center" alt="Hello" width="100%" src="https://github.com/ritik307/ritik307/raw/main/banner.gif" />
 
-<h1 align="center">Hi, I'm MOHAMED ABDULRAHMAN 👋</h1>
-<h3 align="center">Embedded Systems Software Developer</h3>
+# Hi! 👋
 
-<p align="center">
- An experienced Electronics and Communications Engineer in Embedded Systems development with in-depth knowledge of electrical and software engineering. Specialized in designing and developing embedded systems that interact with hardware, with high programming skills using languages ​​such as C, C++, and Python. Proficient in problem solving and improving operational performance of embedded systems with a focus on quality and efficiency.
-</p>
+I am MOHAMED ABDULRAHMAN , a technocrat who always seeks an opportunity to apply the learning in the real world.
 
----
+If you are already here, then kindly make a glimpse on my repositories on GitHub.
 
-### ⚙ Technology Stack
-<p align="center">
-  <img src="<i class="fa-brands fa-python"></i> />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <!-- أضف المزيد حسب الحاجة -->
-</p>
+### Let's Connect:
+[!(https://www.linkedin.com/in/mohamed-abdulrahman-680b532a4/)(https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[!(https://x.com/MOHAMED4897535)(https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitter)
 
----
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedabdo262002&show_icons=true&theme=radical" alt="My GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdo262002&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### I'm Currently Working With:
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[اسم المستخدم]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### Pinned Repositories
+
+- [dataStructure](https://github.com/yourusername/dataStructure)  
+  This repository is based on data structures. Here you will be able to find all necessary data structures you can clone and explore.
+
+- [python](https://github.com/yourusername/python)  
+  This repository is made to learn the Python language from scratch to advanced level.
+
+- [bmi-calculator](https://github.com/yourusername/bmi-calculator)  
+  Contains programs to compute BMI in C/C++, Python, and Java.
+
+- [java-applications](https://github.com/yourusername/java-applications)  
+  A repository of Java programming projects and applications.
+
+---
+
+### Contribution Activity
+![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
