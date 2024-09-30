@@ -1,17 +1,17 @@
 <img align="center" alt="Hello" width="100%" src="https://github.com/ritik307/ritik307/raw/main/banner.gif" />
 
 <h1 align="center">Hi, I'm MOHAMED ABDULRAHMAN 👋</h1>
-<h3 align="center">A Web Developer in making</h3>
+<h3 align="center">Embedded Systems Software Developer</h3>
 
 <p align="center">
-  I'm a passionate developer with experience in Embedded System software. I love to explore new technologies and share what I learn with others. Apart from that, I also try to guide and mentor new developers.
+ An experienced Electronics and Communications Engineer in Embedded Systems development with in-depth knowledge of electrical and software engineering. Specialized in designing and developing embedded systems that interact with hardware, with high programming skills using languages ​​such as C, C++, and Python. Proficient in problem solving and improving operational performance of embedded systems with a focus on quality and efficiency.
 </p>
 
 ---
 
 ### ⚙ Technology Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img src="https://www.pngegg.com/ar/png-nklzm" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
   <!-- أضف المزيد حسب الحاجة -->
