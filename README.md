@@ -1,7 +1,7 @@
 
 # Hi there
 
-I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer* specializing in *Embedded Systems Software*. I love tackling complex challenges and building efficient solutions through coding and electronics. My goal is to continuously learn and apply cutting-edge technologies in the real world.
+I'm MOHAMED ABDULRAHMAN, a passionate *Communications and Electronics Engineer* specializing in *Embedded Systems Software*. I love tackling complex challenges and building efficient solutions through coding and electronics. My goal is to continuously learn and apply cutting-edge technologies in the real world.
 
 ---
 
@@ -66,7 +66,7 @@ Here are a few repositories I'm proud of:
 - 🎓 Degree: BSc in Communications & Electronics Engineering
 - 💻 Interests: Embedded Systems, IoT, and Low-Level Programming
 - 🔧 Hobbies: Working on DIY electronics projects and contributing to open-source
-- 🌍 Location: Cairo, Egypt
+- 🌍 Location: Fayoum - Egypt
 - 📫 How to reach me: Send me an email or connect via LinkedIn!
 
 
