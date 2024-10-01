@@ -1,14 +1,15 @@
+
 # Hi there! 👋
 
-I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer* specializing in *Embedded Systems Software*. I love tackling complex challenges and building efficient solutions through coding and electronics. My goal is to continuously learn and apply cutting-edge technologies in the real world.
+I'm *Ahmed Mohamed, a passionate **Communications and Electronics Engineer* specializing in *Embedded Systems Software*. I love tackling complex challenges and building efficient solutions through coding and electronics. My goal is to continuously learn and apply cutting-edge technologies in the real world.
 
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdulrahman-680b532a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohamed)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohamed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedmohamed)
 
 ---
 
@@ -25,8 +26,8 @@ I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer*
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamed&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmohamed&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -34,16 +35,16 @@ I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer*
 ### 📂 Pinned Repositories:
 Here are a few repositories I'm proud of:
 
-- [*dataStructure*](https://github.com/yourusername/dataStructure)  
+- [*dataStructure*](https://github.com/ahmedmohamed/dataStructure)  
   This repository focuses on fundamental data structures in C/C++.
 
-- [*python*](https://github.com/yourusername/python)  
+- [*python*](https://github.com/ahmedmohamed/python)  
   A step-by-step learning guide to mastering Python from basics to advanced.
 
-- [*bmi-calculator*](https://github.com/yourusername/bmi-calculator)  
+- [*bmi-calculator*](https://github.com/ahmedmohamed/bmi-calculator)  
   Calculate Body Mass Index (BMI) using C, Python, and Java.
 
-- [*java-applications*](https://github.com/yourusername/java-applications)  
+- [*java-applications*](https://github.com/ahmedmohamed/java-applications)  
   A collection of Java-based projects showcasing various applications.
 
 ---
@@ -56,7 +57,7 @@ Here are a few repositories I'm proud of:
 ---
 
 ### 📈 Contribution Activity:
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ahmedmohamed&theme=react-dark)
 
 ---
 
@@ -65,7 +66,7 @@ Here are a few repositories I'm proud of:
 - 🎓 Degree: BSc in Communications & Electronics Engineering
 - 💻 Interests: Embedded Systems, IoT, and Low-Level Programming
 - 🔧 Hobbies: Working on DIY electronics projects and contributing to open-source
-- 🌍 Location: [Your City], [Your Country]
+- 🌍 Location: Cairo, Egypt
 - 📫 How to reach me: Send me an email or connect via LinkedIn!
 
 
