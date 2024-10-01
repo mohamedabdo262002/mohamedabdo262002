@@ -5,7 +5,7 @@ I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer*
 
 ---
 
-### 🔗 Connect with me:
+###  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdulrahman-680b532a4/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MOHAMED4897535)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabdo262002@gmail.com)
@@ -13,7 +13,7 @@ I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer*
 
 ---
 
-### 🚀 Skills and Tools:
+###  Skills and Tools:
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +24,7 @@ I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer*
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedabdo262002&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdo262002&layout=compact&theme=radical&hide_border=true" />
@@ -32,36 +32,36 @@ I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer*
 
 ---
 
-### 📂 Pinned Repositories:
+###  Pinned Repositories:
 Here are a few repositories I'm proud of:
 
-- [*dataStructure*](https://github.com/ahmedmohamed/dataStructure)  
+- [*dataStructure*](https://github.com/mohamedabdo262002/dataStructure)  
   This repository focuses on fundamental data structures in C/C++.
 
-- [*python*](https://github.com/ahmedmohamed/python)  
+- [*python*](https://github.com/mohamedabdo262002/python)  
   A step-by-step learning guide to mastering Python from basics to advanced.
 
-- [*bmi-calculator*](https://github.com/ahmedmohamed/bmi-calculator)  
+- [*bmi-calculator*](https://github.com/mohamedabdo262002/bmi-calculator)  
   Calculate Body Mass Index (BMI) using C, Python, and Java.
 
-- [*java-applications*](https://github.com/ahmedmohamed/java-applications)  
+- [*java-applications*](https://github.com/mohamedabdo262002/java-applications)  
   A collection of Java-based projects showcasing various applications.
 
 ---
 
-### 🌱 What I’m Currently Learning:
+###  What I’m Currently Learning:
 - Advanced *Real-Time Operating Systems (RTOS)* for Embedded Systems.
 - Exploring *Machine Learning* techniques for data-driven IoT applications.
 - Diving deeper into *IoT Protocols* for communication between embedded devices.
 
 ---
 
-### 📈 Contribution Activity:
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ahmedmohamed&theme=react-dark)
+###  Contribution Activity:
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mohamedabdo262002&theme=react-dark)
 
 ---
 
-### ✨ A Little More About Me:
+###  A Little More About Me:
 ```yaml
 - 🎓 Degree: BSc in Communications & Electronics Engineering
 - 💻 Interests: Embedded Systems, IoT, and Low-Level Programming
