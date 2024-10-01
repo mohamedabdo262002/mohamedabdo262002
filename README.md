@@ -1,5 +1,5 @@
 
-# Hi there! 👋
+# Hi there
 
 I'm MOHAMED ABDULRAHMAN, a passionate **Communications and Electronics Engineer* specializing in *Embedded Systems Software*. I love tackling complex challenges and building efficient solutions through coding and electronics. My goal is to continuously learn and apply cutting-edge technologies in the real world.
 
